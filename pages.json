@@ -5,7 +5,7 @@
 			"style": {
 				"navigationBarTitleText": "Mars2D地图", 
 				"app-plus": {  
-					"titleNView": false //禁用原生导航栏  
+					"titleNView": true //禁用原生导航栏  
 				}  
 			}
 		}
@@ -13,7 +13,7 @@
 	"globalStyle": {
 		"navigationBarTextStyle": "white",
 		"navigationBarTitleText": "Mars2D地图",
-		"navigationBarBackgroundColor": "#F8F8F8",
-		"backgroundColor": "#F8F8F8"
+		"navigationBarBackgroundColor": "rgba(32, 160, 255, 0.9)",
+		"backgroundColor": "rgba(32, 160, 255, 0.9)"
 	}
 }
