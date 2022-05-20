@@ -1,19 +1,36 @@
 {
   "name": "mars2d-uni-app",
-  "version": "1.0.0",
-  "description": "",
+  "version": "3.1.0",
+  "description": "基于uni-app技术栈的 Mars2D 最简项目模板",
   "main": "main.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
-  "author": "",
-  "license": "Apache 2.0",
   "dependencies": {
     "mars2d": "^3.1.2",
     "mars2d-esri": "^3.1.2"
   },
   "devDependencies": {
     "@originjs/vite-plugin-commonjs": "^1.0.3"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/marsgis/mars2d.git"
+  },
+  "bugs": {
+    "url": "https://github.com/marsgis/mars2d/issues",
+    "email": "wh@marsgis.cn"
+  },
+  "keywords": [
+    "marsgis",
+    "mars2d",
+    "leaflet",
+    "vue",
+    "vue3",
+    "gis",
+    "webgis"
+  ],
+  "author": "火星科技",
+  "license": "Apache-2.0",
+  "homepage": "http://mars2d.cn"
 }
