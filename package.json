@@ -7,7 +7,7 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "dependencies": {
-    "mars2d": "^3.1.2",
+    "mars2d": "~3.1.2",
     "mars2d-esri": "^3.1.2"
   },
   "devDependencies": {
