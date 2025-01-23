@@ -1,6 +1,6 @@
 {
   "name": "mars2d-uni-app",
-  "version": "3.2.0",
+  "version": "3.3.0",
   "description": "基于uni-app技术栈的 Mars2D 最简项目模板",
   "main": "main.js",
   "scripts": {
