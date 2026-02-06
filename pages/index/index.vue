@@ -7,7 +7,7 @@
 import "leaflet/dist/leaflet.css";
 import L from "leaflet";
 
-import "mars2d/dist/mars2d.css";
+import "mars2d/mars2d.css";
 import * as mars2d from "mars2d";
 import "mars2d-esri";
 
