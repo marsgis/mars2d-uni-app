@@ -1,14 +1,14 @@
 {
   "name": "mars2d-uni-app",
-  "version": "3.3.0",
+  "version": "3.4.0",
   "description": "基于uni-app技术栈的 Mars2D 最简项目模板",
   "main": "main.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "dependencies": {
-    "mars2d": "~3.1.2",
-    "mars2d-esri": "^3.1.2"
+    "mars2d": "~3.4.0",
+    "mars2d-esri": "~3.4.0"
   },
   "devDependencies": {
     "@originjs/vite-plugin-commonjs": "^1.0.3"
